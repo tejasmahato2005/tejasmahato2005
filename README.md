@@ -39,10 +39,11 @@
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasmahato2005&show_icons=true&theme=dark" alt="Tejas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejasmahato2005&show_icons=true&theme=tokyonight" alt="Tejas's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasmahato2005&theme=dark" alt="Tejas's Streak Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasmahato2005&theme=tokyonight" alt="Tejas's Streak Graph" />
 </p>
+
 
 ---
 
@@ -73,8 +74,9 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasmahato2005&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejasmahato2005&theme=github-dark" alt="Activity Graph" />
 </p>
+
 
 ---
 
