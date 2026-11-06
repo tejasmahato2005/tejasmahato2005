@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasmahato2005&show_icons=true&theme=tokyonight" alt="Tejas's GitHub Stats" width="100%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tejasmahato2005&show_icons=true&theme=tokyonight" alt="Tejas's GitHub Stats" width="100%" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasmahato2005&theme=tokyonight" alt="Tejas's Streak Graph" />
 </p>
